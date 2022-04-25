@@ -4,7 +4,7 @@
 #
 Name     : R-sparkline
 Version  : 2.0
-Release  : 13
+Release  : 14
 URL      : https://cran.r-project.org/src/contrib/sparkline_2.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/sparkline_2.0.tar.gz
 Summary  : 'jQuery' Sparkline 'htmlwidget'
